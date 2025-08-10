@@ -25,3 +25,5 @@ COPY
 GET
 
 Ev kann man damit eine lokale API basteln
+
+Schaut so aus, als ob da ein Webserver läuft..... Probiere mein Glück mit Fiddler
